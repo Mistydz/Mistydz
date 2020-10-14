@@ -6,7 +6,7 @@
  - I'm a motivated person that like to learn new technologies.
  - I'm intressted in artificial intelligence and autonomous technology.
  - I try to create small projects regularly in my free time .
- - I love open source projects that why i use MIT license on my repos.
+ - I love open source projects that why i use MIT license on my repos. ....
 
  ### Contact me: 
 
