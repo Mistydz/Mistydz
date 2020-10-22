@@ -1,6 +1,6 @@
 
 
-### Hello , I'm Mouhamed Marwan and i m self taught programmer..
+### Hello , I'm Mouhamed Marwan and i m self taught programmer.
 
 ## I'm working as a Freelancer on software development!
  - I'm a motivated person that like to learn new technologies.
