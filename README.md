@@ -12,7 +12,7 @@
 
  [<img align="left" alt="mistydev.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][url]
  [<img align="left" alt="MohamedMisty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
- <br />or via email : ds.misty13@gmail.com
+ <br />or via email : MistyUX@gmail.com
 
  <br />
 
@@ -42,5 +42,5 @@
 ### Invests in assets that nobody wants , you may get a diamond instead of graphite
 
 [website]:https://github.com/Mistydz
-[url]:https://mistydev.cf/
+[url]:https://mistyux.netlify.app/
 [twitter]:https://twitter.com/MohamedMisty
