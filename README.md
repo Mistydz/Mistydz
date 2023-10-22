@@ -1,5 +1,4 @@
 
-
 ### Hello , I'm Mohammed Marwan and i m self taught programmer.
 
 ## I'm working as a Freelancer on software development!
@@ -13,9 +12,7 @@
  [<img align="left" alt="mistydev.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][url]
  [<img align="left" alt="MohamedMisty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
  <br />or via email : MistyUX@gmail.com
-
  <br />
-
  ### Languages and Tools :
  
  [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -27,8 +24,9 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mistydz&show_icons=true&locale=en&layout=compact" alt="mistydz" /></p>
 
 
 <br />
@@ -38,6 +36,8 @@
  - [Steam Astro](https://astro-s.herokuapp.com) : is an app that get user input then pass it to the server to use it for fetching some data from steam api (name-level-country...) then use the country code result to get the full country name and flag from the restcountries api then output all the result to the user while giving him the option to calculate the ammount of xp/cost needed to get to his wanted level
 
  <br />
+ <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mis9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mis9" /></a></p><br><br>
  
 ### Invests in assets that nobody wants , you may get a diamond instead of graphite
 
